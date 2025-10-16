@@ -1,0 +1,7 @@
+name = "kv"
+main = "src/index.js"
+compatibility_date = "2024-10-01"
+
+[[kv_namespaces]]
+binding = "SESSION_KV"
+id = "77fbd177f8484d9baa35975e54190c5e"
